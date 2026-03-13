@@ -7,9 +7,9 @@ data_center.db
 *.db
 
 # 日志与导出
-logs/
-exports/
-*.log
+logs/*.log
+exports/*.csv
+
 
 # 用户下载目录（可选：若需保留示例可移出 .gitignore）
 downloads/
