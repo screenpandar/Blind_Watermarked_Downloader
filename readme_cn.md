@@ -11,7 +11,7 @@
 ### 1. 克隆项目并进入目录
 
 ```bash
-git clone <https://github.com/screenpandar/Blind_Watermarked_Downloader>.git
+git clone https://github.com/screenpandar/Blind_Watermarked_Downloader.git
 cd Blind_watermarked_downloader
 ```
 

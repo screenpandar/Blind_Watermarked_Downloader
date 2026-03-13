@@ -11,7 +11,7 @@ Flask API + desktop client + SQLite + blind watermark.
 ## Quick start
 
 ```bash
-git clone <https://github.com/screenpandar/Blind_Watermarked_Downloader>.git
+git clone https://github.com/screenpandar/Blind_Watermarked_Downloader.git
 cd Blind_watermarked_downloader
 pip install -r requirements.txt
 python app.py          # start server (default 0.0.0.0:5000)
